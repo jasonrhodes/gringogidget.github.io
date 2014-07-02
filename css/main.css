@@ -12,3 +12,12 @@ a {
 	text-align: center;
 	margin: 0;
 }
+
+a {
+	color: #6ab47b;
+}
+
+header {
+	background: ##6ab47b;
+	border-color: #599a68;
+}
