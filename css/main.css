@@ -157,7 +157,7 @@ PAGE: CONTACT
 }
 
 .contact-info a {
-  display: block;
+  display: inline-block;
   min-height: 20px;
   background-repeat: no-repeat;
   background-size: 20px 20px;
