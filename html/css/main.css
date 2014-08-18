@@ -12,7 +12,8 @@ body, html {
   float: left;
   display: block;
   width: 20%;
-  background: orange;
+  background: white;
+  height: 100%;
 }
 
 .container .main {
