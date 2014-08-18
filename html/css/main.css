@@ -14,10 +14,13 @@ body, html {
   width: 20%;
   background: white;
   height: 100%;
+  text-indent: 25px;
+  font-family: courier;
 }
 
 .container .main {
   float: left;
   display: block;
   width: 80%;
+  font-family: courier;
 }
