@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.page-wrapper {
+  height: 100%;
+  position: relative;
+}
+
+.left-column {
+  position:fixed; /* <-- fixes the left panel to prevent from scrolling */
+  top:0;
+  left:0;
+  width:235px;
+  height:100%;
+  background:#090909;
+}
+
+.right-column {
+  margin-left:235px;
+  background:yellow;
+  min-height:100%;  /* <-- fixes the background-color issue when content grows */
+}
