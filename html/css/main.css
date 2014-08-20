@@ -24,3 +24,9 @@ body, html {
   width: 80%;
   font-family: courier;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
